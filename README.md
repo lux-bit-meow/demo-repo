@@ -1,4 +1,7 @@
 # Git
 ## Self-learning
 
-* taking some notes here..
+* taking some notes here:
+  * terms:
+  * commands:
+
