@@ -2,6 +2,9 @@
 ## Self-learning
 
 * taking some notes here:
-  * terms:
+  * terms: 
+    cd
+    CLI
+  
   * commands:
 
